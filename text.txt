@@ -4,3 +4,4 @@ Public static void openDoor() {
      mas[0] = a;
      a++;
 }
+D
