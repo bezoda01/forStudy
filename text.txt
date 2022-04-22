@@ -1,5 +1,0 @@
-Public static void openDoor() {
-     Int a = 1;
-     int[] mas = new int[];
-     mas[0] = a;
-}
