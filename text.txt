@@ -5,3 +5,4 @@ Public static void openDoor() {
      a++;
 }
 D
+Red
